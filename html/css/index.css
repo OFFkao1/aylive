@@ -1,0 +1,68 @@
+<style>
+.h1{
+color: grey ;
+font-style: italic;
+padding-top: 25px;
+}
+.tap{
+color: red;
+}
+.tap:hover{
+cursor: pointer;
+text-decoration: underline;
+color:green
+}
+.span{
+  color: brown;
+}
+.span:hover{
+  cursor:pointer
+}
+.A:hover{
+  color: black;
+}
+.A{
+  padding-bottom: 350px;
+}
+
+.one{
+background-color: black;
+margin-bottom: 35px;
+font-size: 50px;
+font-weight: bold;
+border-color: black;
+border-width: 30px;
+padding-left: 10px;
+}
+.two{
+background-color: black;
+margin-bottom: 35px;
+font-size: 50px;
+font-weight: bold;
+border-color: black;
+border-width: 30px;
+padding-left: 10px;;
+}
+
+.three{
+  background-color: black;
+  margin-bottom: 35px;
+  font-size: 30px;
+  font-weight: bold;
+  border-color: black;
+  border-width: 30px;
+  padding-left: 10px;
+}
+.di{
+    text-decoration: underline;
+    color: grey;
+}
+.fi{
+  text-decoration: underline;
+  color: grey;
+}
+.ai{
+  text-decoration: underline;
+  color: grey;
+}
+</style>
