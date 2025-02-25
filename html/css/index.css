@@ -1,4 +1,4 @@
-<style>
+
 .h1{
 color: grey ;
 font-style: italic;
@@ -65,4 +65,13 @@ padding-left: 10px;;
   text-decoration: underline;
   color: grey;
 }
-</style>
+.hv{
+border-width: 20px;
+border-color: blueviolet;
+border: navy;
+background-color: blue;
+
+}
+.dc{
+  margin: 50px;
+}
